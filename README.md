@@ -1,6 +1,6 @@
 # A Coevolution approach for the Multi-objective Circular Supply Chain Problem
 
-This repository contains the code to generate the data for Paper "A Coevolution approach for the Multi-objective Circular Supply Chain Problem", which can be found [here on IEEE Xplore](https://ieeexplore.ieee.org/document/10195126).
+This repository contains the code to generate the data for Paper "A Coevolution approach for the Multi-objective Circular Supply Chain Problem". As the name suggests, a coevolution approach, implemented for the pymoo framwork, is used to solve the Circular Supply Chain (CSC) problem. For more information, you can check out the [original work on IEEE Xplore](https://ieeexplore.ieee.org/document/10195126). More information aboud the CSC problem can be found [here](https://doi.org/10.1145/3583133.3590742).
 
 ## Running the Code
 
