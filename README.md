@@ -17,7 +17,7 @@ python3 visualize.py
 
 ## Citation
 
-If you have used this research, you can cite it in your publication by:
+If you have used this research, you can cite it with:
 
 T. Benecke, O. Antons, S. Mostaghim and J. Arlinghaus, "A Coevolution Approach for the Multi-objective Circular Supply Chain Problem," 2023 IEEE Conference on Artificial Intelligence (CAI), Santa Clara, CA, USA, 2023, pp. 222-223, [doi: 10.1109/CAI54212.2023.00103.](https://ieeexplore.ieee.org/document/10195126)
 
