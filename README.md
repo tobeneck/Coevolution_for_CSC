@@ -31,3 +31,7 @@ Bibtex:
   doi={10.1109/CAI54212.2023.00103}
 }
 ```
+
+## Acknowledgement
+
+This work is part of the Research Initiative "SmartProSys: Intelligent Process Systems for the Sustainable Production of Chemicals" funded by the Ministry for Science, Energy, Climate Protection and the Environment of the State of Saxony-Anhalt.
